@@ -1,6 +1,3 @@
-- Was ist das?
-
-- This is my git
-
-- You goddamn right!
 # spb_workshop
+
+так это проба работы с гитом
